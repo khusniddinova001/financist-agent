@@ -1,4 +1,4 @@
-# financist-agent
+# Financist-agent
 
 An AI-powered finance agent that pulls market/financial data (e.g., from Yahoo Finance) and produces analysis such as profitability vs cash drivers, ratios, and summaries.
 
