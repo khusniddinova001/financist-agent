@@ -15,9 +15,6 @@ This project helps automate company analysis by:
 - ✅ “Profitability vs Cash Drivers” analysis report
 - ✅ Export results (optional: CSV/JSON/PDF)
 
-## Demo (optional)
-Add screenshots, terminal output, or a short GIF here.
-
 ## Quick start
 
 ### 1) Clone the repository
