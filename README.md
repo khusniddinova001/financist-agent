@@ -9,11 +9,11 @@ This project helps automate company analysis by:
 - Explaining profitability vs cash drivers in a structured way
 
 ## Features
-- ✅ Fetch data from Yahoo Finance
-- ✅ Compute profitability metrics (margins, ROE/ROA, DuPont)
-- ✅ Compute cash metrics (CFO, FCF, working capital, CCC)
-- ✅ “Profitability vs Cash Drivers” analysis report
-- ✅ Export results (optional: CSV/JSON/PDF)
+-  Fetch data from Yahoo Finance
+-  Compute profitability metrics (margins, ROE/ROA, DuPont)
+-  Compute cash metrics (CFO, FCF, working capital, CCC)
+-  “Profitability vs Cash Drivers” analysis report
+-  Export results (optional: CSV/JSON/PDF)
 
 ## Quick start
 
